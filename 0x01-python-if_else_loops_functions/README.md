@@ -18,7 +18,12 @@ Pycodestyle – Style Guide for Python Code
   
   <tr>
     <td> randoms in python </td>
-    <td> <a href="https://www.geeksforgeeks.org/python-random-module/"> Geeks for Geeks </a>
+    <td> <a href="https://www.geeksforgeeks.org/python-random-module/"> Geeks for Geeks </a> </td>
+  </tr>
+  
+  <tr>
+    <td> Extracting last digit of a number</td>
+    <td> <a href="https://www.codingem.com/python-how-to-get-the-last-digit-of-a-number/"> coding gem </a> </td>
   </tr>
   
   </table>

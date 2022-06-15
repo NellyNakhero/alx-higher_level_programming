@@ -41,4 +41,9 @@ Pycodestyle – Style Guide for Python Code
     <td><a href="https://dev.to/days_64/python-hex-function-convert-decimal-to-hexadecimal-33am"> dec to </a></td>
   </tr>
   
+  <tr>
+    <td>Convert a single digit number into a double digits </td>
+    <td> <a href="https://stackoverflow.com/questions/3505831/in-python-how-do-i-convert-a-single-digit-number-into-a-double-digits-string"> Stack Overflow </a> </td>
+  </tr>
+  
   </table>

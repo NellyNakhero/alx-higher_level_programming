@@ -36,4 +36,9 @@ Pycodestyle – Style Guide for Python Code
     <td> <a href="https://www.w3schools.com/python/python_operators.asp"> W3Schools </a> </td>
   </tr>
   
+  <tr>
+    <td> Converting Decimals to Hexadecimals</td>
+    <td><a href="https://dev.to/days_64/python-hex-function-convert-decimal-to-hexadecimal-33am"> dec to </a></td>
+  </tr>
+  
   </table>

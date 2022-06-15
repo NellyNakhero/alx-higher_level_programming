@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-for i in range(99):
-    print("{:02d}".format(i), end=", ")
-else:
-    print("{:02d}".format(i + 1))
+for i in range(0, 100):
+    if len(repr(i)) != 2:
+        print(f"{i:02}", end=', ')
+    print(i, end=', ')

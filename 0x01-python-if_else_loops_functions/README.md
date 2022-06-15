@@ -10,3 +10,15 @@ Learn to Program
 Learn to Program 2 : Looping
 Pycodestyle – Style Guide for Python Code
 
+<table>
+  <tr>
+    <th> Concept </th>
+    <th> Source of Info </th>
+  </tr>
+  
+  <tr>
+    <td> randoms in python </td>
+    <td> <a href="https://www.geeksforgeeks.org/python-random-module/"> Geeks for Geeks </a>
+  </tr>
+  
+  </table>

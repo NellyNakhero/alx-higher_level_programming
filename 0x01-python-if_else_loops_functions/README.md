@@ -17,13 +17,18 @@ Pycodestyle – Style Guide for Python Code
   </tr>
   
   <tr>
-    <td> randoms in python </td>
+    <td> Using randoms in python </td>
     <td> <a href="https://www.geeksforgeeks.org/python-random-module/"> Geeks for Geeks </a> </td>
   </tr>
   
   <tr>
     <td> Extracting last digit of a number</td>
     <td> <a href="https://www.codingem.com/python-how-to-get-the-last-digit-of-a-number/"> coding gem </a> </td>
+  </tr>
+  
+  <tr>
+    <td> Converting ASCII to alphabets </td>
+    <td> <a href="https://code4coding.com/python-program-for-display-all-alphabets-using-ascii-value/"> Code 4 Coding </a></td>
   </tr>
   
   </table>

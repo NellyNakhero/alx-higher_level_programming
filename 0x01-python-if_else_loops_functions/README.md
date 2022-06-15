@@ -31,4 +31,9 @@ Pycodestyle – Style Guide for Python Code
     <td> <a href="https://code4coding.com/python-program-for-display-all-alphabets-using-ascii-value/"> Code 4 Coding </a></td>
   </tr>
   
+  <tr>
+    <td> Logical Operator or </td>
+    <td> <a href="https://www.w3schools.com/python/python_operators.asp"> W3Schools </a> </td>
+  </tr>
+  
   </table>

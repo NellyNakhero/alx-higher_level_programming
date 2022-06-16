@@ -51,4 +51,14 @@ Pycodestyle – Style Guide for Python Code
     <td> <a href="https://towardsdatascience.com/how-to-create-user-defined-functions-in-python-e5a529386534"> Towards Data Science </a> </td>
   </tr>
   
+  <tr>
+    <td> Understanding split string by position </td>
+    <td><a href="https://stackoverflow.com/questions/46766530/python-split-a-string-by-the-position-of-a-character"> Stack Overflow</a></td>
+  </tr>
+  
+  <tr>
+    <td> Understanding reverse order</td>
+    <td><a href="https://realpython.com/python-range/#:~:text=But%20Python%20does%20have%20a,the%20integers%20in%20reverse%20order.&text=range()%20makes%20it%20possible,a%20sequence%20in%20reverse%20order."> Real Python </a></td>
+  </tr>
+  
   </table>

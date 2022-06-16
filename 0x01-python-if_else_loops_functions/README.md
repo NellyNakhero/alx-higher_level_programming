@@ -61,4 +61,9 @@ Pycodestyle – Style Guide for Python Code
     <td><a href="https://realpython.com/python-range/#:~:text=But%20Python%20does%20have%20a,the%20integers%20in%20reverse%20order.&text=range()%20makes%20it%20possible,a%20sequence%20in%20reverse%20order."> Real Python </a></td>
   </tr>
   
+  <tr>
+    <td>ASCII Character Table </td>
+    <td><a href="http://sticksandstones.kstrom.com/appen.html">Stick & Stone </a></td>
+  </tr>
+  
   </table>

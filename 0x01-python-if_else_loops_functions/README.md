@@ -46,4 +46,9 @@ Pycodestyle – Style Guide for Python Code
     <td> <a href="https://stackoverflow.com/questions/3505831/in-python-how-do-i-convert-a-single-digit-number-into-a-double-digits-string"> Stack Overflow </a> </td>
   </tr>
   
+  <tr>
+    <td> Creating user defined functions </td>
+    <td> <a href="https://towardsdatascience.com/how-to-create-user-defined-functions-in-python-e5a529386534"> Towards Data Science </a> </td>
+  </tr>
+  
   </table>

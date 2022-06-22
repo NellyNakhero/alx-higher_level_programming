@@ -15,3 +15,8 @@
     <td>  if __name__ == '__main__' </td>
     <td> <a href = "https://youtu.be/g_wlZ9IhbTs"> Youtube Link </a></td>
   </tr>
+  
+  <tr>
+    <td>  __import__() </td>
+    <td><a href="https://youtu.be/Nny-PcGbw10"> Youtube Link </a> </td>
+  </tr>

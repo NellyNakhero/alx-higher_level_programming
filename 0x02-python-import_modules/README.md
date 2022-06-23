@@ -20,3 +20,8 @@
     <td>  __import__() </td>
     <td><a href="https://youtu.be/Nny-PcGbw10"> Youtube Link </a> </td>
   </tr>
+  
+  <tr>
+    <td> Command Line Arguments </td>
+    <td> <a href="https://youtu.be/R2_beoINHe4">Youtube Link </a></td>
+  </tr>

@@ -28,5 +28,5 @@
   
   <tr>
     <td>  dir() built-in function</td>
-    <td> <a href"https://youtu.be/h4rTF-7uZA4"> Youtube Link </a></td>
+    <td> <a href="https://youtu.be/h4rTF-7uZA4"> Youtube Link </a></td>
   </tr>
